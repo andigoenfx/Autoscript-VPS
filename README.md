@@ -1,5 +1,4 @@
 # Autoscript VPS By Horasss (Admin VPNStores)
-Free...!!!
 
 1. Update Repositori VPS dan Upgrade agar Tidak Crash Saat Installasi
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
